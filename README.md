@@ -1,4 +1,4 @@
-# Te,plate
+# Holy-grail-Template
 
 The holy-grail website template built as a project at The Odin Project.
 
